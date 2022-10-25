@@ -4867,10 +4867,23 @@ a img {
     height: 75vh !important
 }
 
-.responsive {
+.responsive img {
+  justify-self: center;
+  align-self: center;
+  width: 500px;
+  height: 50px;    
+}
+
+img {
+  width: 500px;
+  height: 50px;
+  margin-left: .5rem;
+}
+
+/* .responsive {
     width: 100%;
     height: auto;
-}
+} */
 
 .header {
     z-index: 1;
