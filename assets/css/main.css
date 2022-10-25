@@ -4845,11 +4845,11 @@ a img {
 /* THIS IS THE BACKGROUND COLOR */
 
 #particles-js {
-    background: #130C16;
+    background: #FFFFFF;
     /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #130C16, #0F160C);
+    background: -webkit-linear-gradient(to right, #FFFFFF, #FFFFFF);
     /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #130C16, #0F160C);
+    background: linear-gradient(to right, #FFFFFF, #FFFFFF);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
     display: flex;
