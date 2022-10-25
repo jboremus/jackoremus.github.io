@@ -4855,7 +4855,7 @@ a img {
     display: flex;
     vertical-align: bottom;
     width: 100%;
-    min-height: 100vh;
+    min-height: 75vh;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed
@@ -4863,7 +4863,7 @@ a img {
 
 #particles-js .particles-js-canvas-el {
     width: 100% !important;
-    height: 100vh !important
+    height: 75vh !important
 }
 
 .header {
