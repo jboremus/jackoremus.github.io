@@ -16,6 +16,7 @@ body {
     color: #555;
     font-family: 'Nunito Sans', sans-serif;
     background-color: #fff;
+    width: 100%
 }
 
 article,
@@ -4864,6 +4865,11 @@ a img {
 #particles-js .particles-js-canvas-el {
     width: 100% !important;
     height: 75vh !important
+}
+
+.responsive {
+    width: 100%;
+    height: auto;
 }
 
 .header {
