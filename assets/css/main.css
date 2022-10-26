@@ -4876,7 +4876,7 @@ a img {
 
 img {
   width: 500px;
-  height: 50px;
+  height: auto;
   margin-left: .5rem;
 }
 
