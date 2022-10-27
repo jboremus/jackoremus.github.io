@@ -4877,7 +4877,7 @@ a img {
 img {
   width: 100%;
   height: auto;
-  margin-left: .5rem;
+  margin-left: -2.5rem;
 }
 
 /* .responsive {
